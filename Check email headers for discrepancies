@@ -1,0 +1,40 @@
+Subject:vikaspalid2004! -Summer Must-Have – Free Car Emergency Kit ⚡. ID#2043
+Message Id:	<4wvdi302-glfg5m4b-yln885zq-xhx7p5ad-qzmb9hon@convertkit-mail2.com>
+Creation time:	Wed, 17 Sep 2025 20:57:42 +0000.335-978980 (Delivered after 1 second)
+From	:" 'AAA_Emergency_Kit_Offer' " <hygdx@datastreamgalaxy.uk.net>
+To	:vikaspalid2004@gmail.com
+
+Recevied header:
+Hop	  Submitting host	                                                   Receiving host               	      Time	                     Delay	      Type⇒		
+1	     zwimpad.com (ip6-localhost )	                                     pdr8-services-05v(Postfix)	          9/18/2025 2:27:42 AM	     N/A          ESMTP
+2	     cloudllineh.com.tr(vps-a07232e0.vps.ovh.net. [164.132.51.132])	   mx.google.com	                      9/18/2025 2:27:42 AM	     0 seconds    ESMTPS
+3		   N/A                                                               2002:a05:6214:311a:b0:78e:3270:9548	9/18/2025 2:27:43 AM	     1 second     SMTP
+
+
+Other header:
+#    Header                         Value
+14	 MIME-Version	                  1.0
+7  	 Return-Path	                  <335-978980@datastreamgalaxy.uk.net>
+13	 X-Google-Sender-Delegation	    AAA
+2	   X-Google-Smtp-Source	          AGHT+IGLKgGPmkMWEiYYHQQV5zJoCN7wQ7mfzMNDLSeJ4k/q3WUZBl6TwtWU/PEuMEqGsL+elkoO
+11   DomainKey-Signature	          a=rsa-sha1; c=nofws; q=dns; s=smtp; d=73f8lwldbx3.datastreamgalaxy.uk.net; b=1V3LbKw9Q7j0WvVcuxwfXEvaP3lHLFkRwQC54zVJJKO6AvLJg/nkzg+SV8UENokYBW/yM9z7JgqS 9qf2+vmPKJk2mEP6/nT4eY2ZpCS3IeIF3zGxC9+foZE9ZPbaX9OY4MlngtHVvF6yGYTt2h33aL4C 08MCavUxGp0QSiioJWk=;
+12	 Sender	                        br <updates@73f8lwldbx3.datastreamgalaxy.uk.net>
+3	   X-Received	                    by 2002:a05:600c:3151:b0:45f:28cd:e033 with SMTP id 5b1f17b1804b1-46202bf7eebmr38369085e9.10.1758142663011; Wed, 17 Sep 2025 13:57:43 -0700 (PDT)
+5  	 ARC-Message-Signature	        i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605; h=mime-version:message-id:subject:to:from:sender:date :domainkey-signature:dkim-signature; bh=N3LREidvkgA/Qy2bzngLZ+6rRiz6s6T/1mK9f9x0iCE=; fh=n45fgmJzkgSgauZQt4KByXaKFMylHSEbTD3rRcyvTMU=; b=AkXRob7kII+ZjyrzXzwM4tuEBVBPiolfQZX8XR4BR+Cgd94vYEKWm6n2MMLNyeMphZ AzPekYHmylsoSqSyOOEThqBBWC+cOVKSjW2iB0Z8Vq+XcGpGn3Mpzx7qoRDbrUnilr2L 24sqDOtkySFYNipHV5itdkwcs8pBrROyfnUyfey28mFbxBaAH/sceLF4DaiHfvv8mW1m wx5FZ4PLV8zLCA0Ov+HqdI9JlHj0EVHu6ItGxysIAprzCCiiqhrQc5dFU7tjyIO32kkZ TflcExM6DLiod8p+8ZbIIeNQj473lZrsQW760+fF5Y7Jv08J4o1U4y9CH+4cgOnXhnVR SmZg==; dara=google.com
+4	   ARC-Seal	                      i=1; a=rsa-sha256; t=1758142663; cv=none; d=google.com; s=arc-20240605; b=Vv06uI4VEnv9IUutV8txN0WY4E9l8/1E7Ts3sf0YVmdKPge6i9kaLOy1BBpZ9bdXmY LTu5L1AdAyxURRGgpJiBctv7viYNlu+gymTAJxq01QF0H/e230tbHalFcEVyBIixF403 ibdruzUAnHjw5wZNZE4sqrjycaVqJBmTbwYWWxgBuv86NkblZdn3YWAA5L643AubndRM fSNcuImXOYbt2OyH29hQuupEm1caZpdTnuheDApP1bQQBQ7FF9nPhJJNPAZuAF77MwHM ZP2qItZy07mpPwHBH69Joo+9tZZe9d8K/NavOlfffMODlvHRVJZnNK/zb3ijnkBhP5UD rLmg==
+6    ARC-Authentication-Results	    i=1; mx.google.com; dkim=pass header.i=@73f8lwldbx3.datastreamgalaxy.uk.net header.s=smtp header.b=VMMTznsZ; spf=pass (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) smtp.mailfrom=335-978980@datastreamgalaxy.uk.net
+15   Content-Type	                  multipart/report; boundary="vikaspalid2004";
+9	   Authentication-Results	        mx.google.com; dkim=pass header.i=@73f8lwldbx3.datastreamgalaxy.uk.net header.s=smtp header.b=VMMTznsZ; spf=pass (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) smtp.mailfrom=335-978980@datastreamgalaxy.uk.net
+8	   Received-SPF	pass              (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) client-ip=164.132.51.132;
+10	 DKIM-Signature	                v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=73f8lwldbx3.datastreamgalaxy.uk.net; h=Date:Sender:From:To:Subject:Message-ID:MIME-Version:Content-Type; i=updates@73f8lwldbx3.datastreamgalaxy.uk.net; bh=JK6vQgtk6coWwHQPlWCKUFoDK/c=; b=VMMTznsZW4fVTGbb85amraaQnp+cCZMi/+calMbp3WrFNCbXmTPcKiVmIrOwDlAKsCiomh9NKKMC ntXsVGlyc/IwQ9oVgzsmuE3BOh6x2OFm6moJPlSwPiLqP5ABot26So9D4n8Dj34qBpQ70WsBc62O znQxii+23HQUz3IGDHw=
+1	   Delivered-To	                  vikaspalid2004@gmail.com
+
+
+
+
+
+
+
+
+
+

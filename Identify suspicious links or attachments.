@@ -1,0 +1,123 @@
+There are some suspicious links or attachment in this mail header:
+
+Delivered-To: vikaspalid2004@gmail.com
+Received: by 2002:a05:6214:311a:b0:78e:3270:9548 with SMTP id ks26csp333819qvb;
+        Wed, 17 Sep 2025 13:57:43 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IGLKgGPmkMWEiYYHQQV5zJoCN7wQ7mfzMNDLSeJ4k/q3WUZBl6TwtWU/PEuMEqGsL+elkoO
+X-Received: by 2002:a05:600c:3151:b0:45f:28cd:e033 with SMTP id 5b1f17b1804b1-46202bf7eebmr38369085e9.10.1758142663011;
+        Wed, 17 Sep 2025 13:57:43 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1758142663; cv=none;
+        d=google.com; s=arc-20240605;
+        b=Vv06uI4VEnv9IUutV8txN0WY4E9l8/1E7Ts3sf0YVmdKPge6i9kaLOy1BBpZ9bdXmY
+         LTu5L1AdAyxURRGgpJiBctv7viYNlu+gymTAJxq01QF0H/e230tbHalFcEVyBIixF403
+         ibdruzUAnHjw5wZNZE4sqrjycaVqJBmTbwYWWxgBuv86NkblZdn3YWAA5L643AubndRM
+         fSNcuImXOYbt2OyH29hQuupEm1caZpdTnuheDApP1bQQBQ7FF9nPhJJNPAZuAF77MwHM
+         ZP2qItZy07mpPwHBH69Joo+9tZZe9d8K/NavOlfffMODlvHRVJZnNK/zb3ijnkBhP5UD
+         rLmg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:message-id:subject:to:from:sender:date
+         :domainkey-signature:dkim-signature;
+        bh=N3LREidvkgA/Qy2bzngLZ+6rRiz6s6T/1mK9f9x0iCE=;
+        fh=n45fgmJzkgSgauZQt4KByXaKFMylHSEbTD3rRcyvTMU=;
+        b=AkXRob7kII+ZjyrzXzwM4tuEBVBPiolfQZX8XR4BR+Cgd94vYEKWm6n2MMLNyeMphZ
+         AzPekYHmylsoSqSyOOEThqBBWC+cOVKSjW2iB0Z8Vq+XcGpGn3Mpzx7qoRDbrUnilr2L
+         24sqDOtkySFYNipHV5itdkwcs8pBrROyfnUyfey28mFbxBaAH/sceLF4DaiHfvv8mW1m
+         wx5FZ4PLV8zLCA0Ov+HqdI9JlHj0EVHu6ItGxysIAprzCCiiqhrQc5dFU7tjyIO32kkZ
+         TflcExM6DLiod8p+8ZbIIeNQj473lZrsQW760+fF5Y7Jv08J4o1U4y9CH+4cgOnXhnVR
+         SmZg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@73f8lwldbx3.datastreamgalaxy.uk.net header.s=smtp header.b=VMMTznsZ;
+       spf=pass (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) smtp.mailfrom=335-978980@datastreamgalaxy.uk.net
+Return-Path: <335-978980@datastreamgalaxy.uk.net>
+Received: from cloudllineh.com.tr (vps-a07232e0.vps.ovh.net. [164.132.51.132])
+        by mx.google.com with ESMTPS id ffacd0b85a97d-3ee0fbddc90si359933f8f.251.2025.09.17.13.57.42
+        for <vikaspalid2004@gmail.com>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Wed, 17 Sep 2025 13:57:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) client-ip=164.132.51.132;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@73f8lwldbx3.datastreamgalaxy.uk.net header.s=smtp header.b=VMMTznsZ;
+       spf=pass (google.com: domain of 335-978980@datastreamgalaxy.uk.net designates 164.132.51.132 as permitted sender) smtp.mailfrom=335-978980@datastreamgalaxy.uk.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=73f8lwldbx3.datastreamgalaxy.uk.net; h=Date:Sender:From:To:Subject:Message-ID:MIME-Version:Content-Type; i=updates@73f8lwldbx3.datastreamgalaxy.uk.net; bh=JK6vQgtk6coWwHQPlWCKUFoDK/c=; b=VMMTznsZW4fVTGbb85amraaQnp+cCZMi/+calMbp3WrFNCbXmTPcKiVmIrOwDlAKsCiomh9NKKMC
+   ntXsVGlyc/IwQ9oVgzsmuE3BOh6x2OFm6moJPlSwPiLqP5ABot26So9D4n8Dj34qBpQ70WsBc62O
+   znQxii+23HQUz3IGDHw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smtp; d=73f8lwldbx3.datastreamgalaxy.uk.net; b=1V3LbKw9Q7j0WvVcuxwfXEvaP3lHLFkRwQC54zVJJKO6AvLJg/nkzg+SV8UENokYBW/yM9z7JgqS
+   9qf2+vmPKJk2mEP6/nT4eY2ZpCS3IeIF3zGxC9+foZE9ZPbaX9OY4MlngtHVvF6yGYTt2h33aL4C
+   08MCavUxGp0QSiioJWk=;
+Received: from zwimpad.com (ip6-localhost ) by pdr8-services-05v (Postfix) with ESMTP id PYY28AGM for <vikaspalid2004@gmail.com>; Wed, 17 Sep 2025 20:57:42 +0000
+Date: Wed, 17 Sep 2025 20:57:42 +0000.335-978980
+Sender: br <updates@73f8lwldbx3.datastreamgalaxy.uk.net>
+From: " 'AAA_Emergency_Kit_Offer' " <hygdx@datastreamgalaxy.uk.net>
+To: vikaspalid2004@gmail.com
+Subject: vikaspalid2004! -Summer Must-Have – Free Car Emergency Kit ⚡. ID#2043
+Message-ID: <4wvdi302-glfg5m4b-yln885zq-xhx7p5ad-qzmb9hon@convertkit-mail2.com>
+X-Google-Sender-Delegation: AAA
+MIME-Version: 1.0
+Content-Type: multipart/report; boundary="vikaspalid2004";
+
+--vikaspalid2004
+Content-Type: multipart/related; boundary="Wed, 17 Sep 2025 20:57:42 +0000"
+
+--Wed, 17 Sep 2025 20:57:42 +0000
+Content-Type: multipart/alternative; boundary="vikaspalid2004@gmail.com"
+
+--vikaspalid2004@gmail.com
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Top Stories of the Day: Sep 0, 2019
+
+103882302891885308
+-----
+
+If you believe this has been sent to you in error, please safely unsubscrib=
+e
+--vikaspalid2004@gmail.com
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit+
+
+
+
+HERE IT IS :-
+1. Suspicious message content placeholder
+
+This line is especially strange:
+
+Top Stories of the Day: Sep 0, 2019
+
+103882302891885308
+
+
+This makes no logical sense, and that long number may be a tracking code or placeholder ID to personalize a spam/phishing link that would normally appear below this section.
+
+2. Content Type Indicates a Multi-Part Email
+
+In your header:
+
+Content-Type: multipart/related; boundary="Wed, 17 Sep 2025 20:57:42 +0000"
+
+
+This means the email contains multiple parts, probably including:
+
+A HTML version with embedded links
+
+A text version
+
+Possibly images or tracking pixels
+
+Hidden base64 or URL-encoded links
+
+You pasted only the text/plain version:
+
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+But there’s likely an HTML version within this section:
+
+--Wed, 17 Sep 2025 20:57:42 +0000
+Content-Type: multipart/alternative; boundary="vikaspalid2004@gmail.com"
+
+
+That multipart/alternative part is where the HTML content (with links) usually is.

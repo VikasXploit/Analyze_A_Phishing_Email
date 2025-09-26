@@ -1,0 +1,52 @@
+Look for urgent or threatening language in the email body. 
+Original message
+Message ID	<4wvdi302-glfg5m4b-yln885zq-xhx7p5ad-qzmb9hon@convertkit-mail2.com>
+Created on:	18 September 2025 at 02:27 (Delivered after 0 seconds)
+From:	AAA_Emergency_Kit_Offer <hygdx@datastreamgalaxy.uk.net>
+To:	vikaspalid2004@gmail.com
+Subject:	vikaspalid2004! -Summer Must-Have – Free Car Emergency Kit ⚡. ID#2043
+SPF:	PASS with IP 164.132.51.132 Learn more
+DKIM:	'PASS' with domain 73f8lwldbx3.datastreamgalaxy.uk.net Learn more
+DMARC:	'FAIL' Learn more
+
+
+Key Things That Stand Out:
+1. DMARC: FAIL
+
+This is very significant.
+
+DMARC failure means the domain owner (datastreamgalaxy.uk.net) either:
+
+Did not authorize this email.
+
+Or hasn't properly set up email authentication rules.
+
+✅ SPF and DKIM passing is not enough to trust the email when DMARC fails — it fails the final authentication test, suggesting it's either forged or misused.
+
+2. From address is deceptive
+AAA_Emergency_Kit_Offer <hygdx@datastreamgalaxy.uk.net>
+
+
+The display name ("AAA_Emergency_Kit_Offer") is trying to spoof a legitimate organization (likely AAA — the roadside assistance company).
+
+But the actual sending domain is datastreamgalaxy.uk.net, which:
+
+Has no known association with AAA.
+
+Is a nonsensical domain name often used in spam/phishing.
+
+Uses random subdomains (like 73f8lwldbx3.), another tactic used by spammers.
+
+3. Subject Line Uses Urgency + Manipulation
+vikaspalid2004! - Summer Must-Have – Free Car Emergency Kit ⚡. ID#2043
+
+
+Use of your email name: “vikaspalid2004!” adds personalization to catch your attention.
+
+“Summer Must-Have” + “Free” + emoji (⚡) is designed to:
+
+Trigger urgency
+
+Imply a reward or limited-time offer
+
+This is a classic social engineering trick to manipulate your response.

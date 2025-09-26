@@ -1,0 +1,63 @@
+A mismatched URL (aka a spoofed link) is when the text of a link says one thing, but the real destination (the href) is something else — often a malicious or unrelated site.
+For example:
+
+What it looks like in the email:
+
+Click here to claim your AAA Emergency Kit
+https://aaa.com/freekit
+
+But the real link (when you hover):
+
+http://malicious-site.clicktracker.biz/redirect/AAA-scam
+
+This is exactly how phishing works — visually trustworthy, but secretly malicious.
+
+===============================
+MISMATCHED URL CHECK
+===============================
+
+Description:
+------------
+This email claims to be from "AAA_Emergency_Kit_Offer" and offers a "Free Car Emergency Kit". 
+However, the sending domain is not affiliated with AAA.
+
+Sender Info:
+------------
+From: 'AAA_Emergency_Kit_Offer' <hygdx@datastreamgalaxy.uk.net>
+Return-Path: <335-978980@datastreamgalaxy.uk.net>
+Domain: datastreamgalaxy.uk.net (not related to AAA)
+
+DKIM / SPF / DMARC:
+-------------------
+- SPF: PASS
+- DKIM: PASS (for datastreamgalaxy.uk.net)
+- DMARC: FAIL
+
+Analysis:
+---------
+The email likely includes HTML links that:
+- Appear to be from a trusted source (e.g., AAA)
+- Actually redirect to unrelated or suspicious domains such as:
+  - datastreamgalaxy.uk.net
+  - tracking or clickthrough URLs hosted on third-party services
+
+⚠️ Mismatched URLs Expected:
+-----------------------------
+No clickable links were shown in the plain text part of the email, 
+but since the message is multipart/alternative (with an HTML body), 
+it likely contains links where:
+
+- Displayed Text: "Click here to claim your AAA Emergency Kit"
+- Actual URL: http://datastreamgalaxy.uk.net/click?redirect=...
+
+Recommendation:
+---------------
+1. Never click links from unknown or suspicious sources.
+2. Always hover over links in emails to verify the actual destination.
+3. If the visible link text does not match the URL it points to, treat the email as phishing.
+4. Report and delete the message.
+
+Conclusion:
+-----------
+⚠️ High likelihood of mismatched (spoofed) URLs present in HTML version. This is a classic phishing technique.
+
